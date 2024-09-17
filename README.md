@@ -3,7 +3,7 @@
     Real Madrid adalah sebuah website yang dapat digunakan untuk membeli alat apapun yang memiliki logo klub entah itu bola,jersey ataupun sepatu. website ini juga memiliki tampilan yang indah dan dapat digunakan untuk memilih barang hingga checkout.
 </p>
 
-cara menjalankan project ini :
+cara menjalankan project ini : <br>
 1.git clone repositori ini <br>
 2.masuk/cd ke folder project ini  <br>
 3.ketik "composer install" pada terminal  <br>
