@@ -4,16 +4,16 @@
 </p>
 
 cara menjalankan project ini :
-1.git clone repositori ini
-2.masuk/cd ke folder project ini
-3.ketik "composer install" pada terminal
-4.ketik "npm install" pada terminal
-5.nama database app ini adalah ecommerce,agar dapat mengganti nama database ini sesuai yang anda inginkan, ganti nama database program ini pada .env INI OPSIONAL BUKAN KEHARUSAN
-6.php artisan key:generate
-7.php artisan migrate --seed
-8.jalankan tailwind dengan ini "npm run dev"
-9.lalu jalankan php dengan ini "php artisan serve"
-10.anda bisa login sebagai admin ataupun user.
+1.git clone repositori ini <br>
+2.masuk/cd ke folder project ini  <br>
+3.ketik "composer install" pada terminal  <br>
+4.ketik "npm install" pada terminal  <br>
+5.nama database app ini adalah ecommerce,agar dapat mengganti nama database ini sesuai yang anda inginkan, ganti nama database program ini pada .env INI OPSIONAL BUKAN KEHARUSAN  <br>
+6.php artisan key:generate  <br>
+7.php artisan migrate --seed  <br>
+8.jalankan tailwind dengan ini "npm run dev"  <br>
+9.lalu jalankan php dengan ini "php artisan serve"  <br>
+10.anda bisa login sebagai admin ataupun user. <br>
 jika sebagai admin masukan data ini:
 email:admin@gmail.com
 password:admin
